@@ -33,11 +33,11 @@ Zapytanie znajdujące 5 najlepiej zarabiających osób
 
 Wynik:
 
-{ "_id" : "Frances", "hajs" : "$27693.63" }
-{ "_id" : "Judy", "hajs" : "$39054.60" }
-{ "_id" : "Jack", "hajs" : "$47890.61" }
-{ "_id" : "Joan", "hajs" : "$41947.85" }
-{ "_id" : "Jeffrey", "hajs" : "$41116.59" }
+{ "_id" : "Frances", "cash" : "$27693.63" }
+{ "_id" : "Judy", "cash" : "$39054.60" }
+{ "_id" : "Jack", "cash" : "$47890.61" }
+{ "_id" : "Joan", "cash" : "$41947.85" }
+{ "_id" : "Jeffrey", "cash" : "$41116.59" }
 ```
 Zapytanie sortujące nazwiska alfabetycznie
 ```js
